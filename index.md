@@ -1,5 +1,4 @@
 ---
-# remove default title
 title: ""
 ---
 
