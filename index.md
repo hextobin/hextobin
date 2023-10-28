@@ -1,3 +1,8 @@
+---
+# remove default title
+title: ""
+---
+
 # Hello there! 👋
 
 I'm Spencer Brooks, a seasoned software engineer from the United States. I craft 🤌 software solutions. Dive into my projects below!
