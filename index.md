@@ -7,7 +7,7 @@ I'm Spencer Brooks, a seasoned software engineer from the United States. I craft
 - Jest extension for validating API functions against Swagger/OpenAPI specs.
 - Supports multiple HTTP methods and both JSON and YAML formats.
 
-## [Flash Poll App](https://flash-poll-app-2n3gt.ondigitalocean.app) (WIP) 🗳️
+## [Flash Poll App](https://flashpoll.spencerbrooks.io) 🗳️
 
 - A real-time polling application to capture and visualize votes.
 - Features a dynamic and responsive user interface for both poll creation and voting.
