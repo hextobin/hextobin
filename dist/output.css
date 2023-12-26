@@ -918,6 +918,11 @@ html {
   line-height: 1.5rem;
 }
 
+.mx-5 {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -940,6 +945,18 @@ html {
   margin-bottom: 1.5rem;
 }
 
+.ms-8 {
+  margin-inline-start: 2rem;
+}
+
+.ms-5 {
+  margin-inline-start: 1.25rem;
+}
+
+.ms-3 {
+  margin-inline-start: 0.75rem;
+}
+
 .inline {
   display: inline;
 }
@@ -950,6 +967,10 @@ html {
 
 .list-inside {
   list-style-position: inside;
+}
+
+.list-outside {
+  list-style-position: outside;
 }
 
 .list-disc {
@@ -1056,13 +1077,6 @@ html {
   background-color: rgb(0, 0, 0) !important;
 }
 
-body {
-  border-color: rgb(243, 244, 246);
-  border-radius: 1%;
-  border-top-left-radius: 0%;
-  border-top-right-radius: 0%;
-}
-
 .about-me {
   background-color: rgb(218, 230, 241);
 }
@@ -1073,4 +1087,11 @@ body {
 
 .contactio-img{
   width: 250px;
+}
+
+@media (min-width: 640px) {
+  .sm\:mx-0 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
 }
