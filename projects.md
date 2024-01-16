@@ -1,4 +1,4 @@
-# [ `Spencer Brooks` `💻`](/index)
+# [ `Spencer Brooks` `💻`](/hextobin)
 
 ## Projects
 
