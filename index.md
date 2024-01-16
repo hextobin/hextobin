@@ -16,7 +16,7 @@ Driven by the challenge of turning complex problems into elegant software soluti
 
 ### Projects
 
-My projects can be found here: [Projects](/hextobin/projects.md)
+My projects can be found here: [Projects](/hextobin/projects)
 
 ### Contact
 
