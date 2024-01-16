@@ -1,4 +1,4 @@
-# [ `Spencer Brooks` `💻`](/hextobin)
+# `Spencer Brooks` `💻`
 
 ## Software Engineer
 
