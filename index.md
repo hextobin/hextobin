@@ -2,17 +2,17 @@
 
 ## Software Engineer
 
-I have a passion for both front-end and back-end web development, as well as compiler/runtime engineering. I hold a BA in Mathematics and am currently pursuing an MS in Computer Science.
+I have a passion for both front and back-end web development with an eye toward always improving user experience. I hold a BA in Mathematics from Amherst College and a Full-Stack Web Development Certificate from the University of Utah.
 
 ### Areas of Experience:
 
-- Front-end and back-end web development
-- End-to-end web application testing
-- Computer Science fundamentals
+- Front-end web development (React and Next.js)
+- Back-end web development (Next.js, Rails)
+- End-to-end web application testing (Cypress, Selenium)
 
 ### Motivation:
 
-Driven by the challenge of turning complex problems into elegant software solutions. Currently seeking roles that focus on application software engineering, where I can leverage my skills and grow professionally.
+Driven by the challenge of turning complex problems into effective and efficient software solutions. Currently seeking roles that focus on application software engineering, where I can leverage my skills and grow professionally.
 
 ### Projects
 
