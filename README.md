@@ -7,6 +7,7 @@ as a question and an answer, with enough detail to reproduce it.
 answer to one line each, matching the repo README's Question/Answer. -->
 | Question | Answer | Repo |
 |---|---|---|
+| In a transformer with no MLP, does forcing the residual stream onto a polytope help? | Unclear: the L1 ball may train more reliably but scores no better, and the box fails | [polytope](https://github.com/hextobin/polytope) |
 | Does planning each clause with a discrete "concept" code help a small story model predict arcs? | No: the codes lowered word loss but didn't pay for themselves | [concepts](https://github.com/hextobin/concepts) |
 | Can a polynomial equation solved by Newton replace GELU in a transformer? | No: worse than GELU, barely better than no activation | [polydeq](https://github.com/hextobin/polydeq) |
 
